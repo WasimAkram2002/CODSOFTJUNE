@@ -1,0 +1,1 @@
+This is task2 word counter in java programming internship at CodSoft.
